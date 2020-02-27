@@ -36,32 +36,7 @@ color1.addEventListener("input", setGradient);
 color2.addEventListener("input", setGradient);
 button.addEventListener("click", randomColors);
 
-// function moveCommand(direction) {
-// 	var whatHappens;
-// 	switch (direction) {
-// 		case "forward":
-// 			whatHappens = "You encounter a dragon";
-// 			break;
-// 		case "back":
-// 			whatHappens = "You fall into a hole";
-// 			break;
-// 		case "left":
-// 			whatHappens = "You get home safely";
-// 			break;
-// 		case "right":
-// 			whatHappens = "You meet the love of your live";
-// 			break;
-// 		default:
-// 			whatHappens = "Please enter a valid direction";
-// 			break;
-// 	}
-// 	return whatHappens;
 
 
-// function pressEnter(event) {
-//   if (event.which == 13) {
-//     console.log("enter") 
-//   }
-// }
 
-// body.addEventListener ("keypress", pressEnter);
+
